@@ -3,7 +3,7 @@
 
 ## Link to codeRefractor
 
-[https://zacharybryan.github.io/codeRefracrtor/
+https://zacharybryan.github.io/codeRefractor/
 
 - - -
 © 2020 Bryan, Zachary
